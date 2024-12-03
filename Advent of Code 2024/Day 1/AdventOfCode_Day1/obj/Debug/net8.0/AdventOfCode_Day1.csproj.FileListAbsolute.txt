@@ -1,0 +1,28 @@
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.exe
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.deps.json
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.runtimeconfig.json
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.dll
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.pdb
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.AssemblyInfoInputs.cache
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.AssemblyInfo.cs
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.csproj.CoreCompileInputs.cache
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.dll
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\refint\AdventOfCode_Day1.dll
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.pdb
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.genruntimeconfig.cache
+C:\Users\lazyb\source\repos\AdventOfCode_Day1\AdventOfCode_Day1\obj\Debug\net8.0\ref\AdventOfCode_Day1.dll
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.exe
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.deps.json
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.runtimeconfig.json
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.dll
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\bin\Debug\net8.0\AdventOfCode_Day1.pdb
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.AssemblyInfoInputs.cache
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.AssemblyInfo.cs
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.csproj.CoreCompileInputs.cache
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.dll
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\refint\AdventOfCode_Day1.dll
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.pdb
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\AdventOfCode_Day1.genruntimeconfig.cache
+C:\Users\lazyb\source\repos\Advent of Code 2024\Day 1\AdventOfCode_Day1\obj\Debug\net8.0\ref\AdventOfCode_Day1.dll
